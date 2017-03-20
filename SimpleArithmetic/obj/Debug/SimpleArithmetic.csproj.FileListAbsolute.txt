@@ -1,0 +1,6 @@
+E:\sofeware engine hw\SimpleArithmetic\SimpleArithmetic\bin\Debug\SimpleArithmetic.exe.config
+E:\sofeware engine hw\SimpleArithmetic\SimpleArithmetic\bin\Debug\SimpleArithmetic.exe
+E:\sofeware engine hw\SimpleArithmetic\SimpleArithmetic\bin\Debug\SimpleArithmetic.pdb
+E:\sofeware engine hw\SimpleArithmetic\SimpleArithmetic\obj\Debug\SimpleArithmetic.csprojResolveAssemblyReference.cache
+E:\sofeware engine hw\SimpleArithmetic\SimpleArithmetic\obj\Debug\SimpleArithmetic.exe
+E:\sofeware engine hw\SimpleArithmetic\SimpleArithmetic\obj\Debug\SimpleArithmetic.pdb
